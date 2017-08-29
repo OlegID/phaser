@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_DISABLED_FOR_VERSION</key>
+	<string>1.1</string>
+	<key>UPDATE_DESCRIPTION</key>
+	<string>Bug Fix</string>
+	<key>UPDATE_VERSION</key>
+	<string>1.0</string>
+	<key>LOCAL_PUSH_DAYS</key>
+	<integer>5</integer>
+	<key>LOCAL_PUSH_TEXT</key>
+	<string>It's time for Pinball! Try to beat me!</string>
+</dict>
+</plist>
